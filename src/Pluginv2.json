@@ -4,7 +4,7 @@
         "chat": "https://livehouse.in/en/channel/429905/chatroom"
     },
      "장국영": {
-        "m3u8": "https://video01-tok.streamup.com/app/lesliecheungs-stream/playlist.m3u8",
+        "m3u8": "https://video01-tok.streamup.com/app/lesliecheungs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/347257/chatroom"
     },
      "flyhack": {
@@ -48,7 +48,7 @@
         "chat": "https://streamup.com/PJuRi/embeds/chatonly"
     },
     "NiceTV": {
-        "m3u8": "https://video01-tok.streamup.com/app/aimhighs-stream/playlist.m3u8",
+        "m3u8": "https://video01-tok.streamup.com/app/aimhighs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/323847/chatroom"
     },
     "DannaKhan": {
@@ -65,7 +65,7 @@
     },
     "크림샤드": {
         "m3u8": "https://video01-tok.streamup.com/app/crimshards-stream_aac/playlist.m3u8",
-        "chat": "https://streamup.com/crimshard/embeds/chatonly"
+        "chat": "https://livehouse.in/en/channel/322987/chatroom"
     },
     "키메": {
         "m3u8": "https://video-cdn.streamup.com/app/gones-stream/playlist.m3u8",
@@ -164,7 +164,7 @@
         "chat": "https://livehouse.in/en/channel/399183/chatroom"
     },
     "PD Bara": {
-        "m3u8": "https://video04-lax.streamup.com/app/pdbaras-stream/playlist.m3u8",
+        "m3u8": "https://video01-tok.streamup.com/app/pdbaras-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/391814/chatroom"
     },
     "FOXTails TV": {
@@ -178,6 +178,14 @@
     "wing-100": {
         "m3u8": "https://hi.cdn.livehouse.in/413948/video/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/413948/chatroom"
+    },
+    "암내둘리": {
+        "m3u8": "https://video01-tok.streamup.com/app/dndhk20s-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/433523/chatroom"
+    },
+    "potsu-lee": {
+        "m3u8": "https://video01-tok.streamup.com/app/potsu-lees-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/435960/chatroom"
     },    
     "대전꼬꼬마": "391890",
     "sorum": "390469",
