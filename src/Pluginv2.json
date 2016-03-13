@@ -187,6 +187,10 @@
         "m3u8": "https://video01-tok.streamup.com/app/potsu-lees-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/435960/chatroom"
     },
+    "potsu-lee2": {
+        "m3u8": "https://video01-tok.streamup.com/app/pooopotlee2s-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/410816/chatroom"
+    },
     "이저먹지망": {
         "m3u8": "https://video01-tok.streamup.com/app/jangkyos-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/332841/chatroom"
