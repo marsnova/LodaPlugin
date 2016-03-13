@@ -88,7 +88,7 @@
         "chat": "https://streamup.com/kyou/embeds/chatonly"
     },
     "심청이": {
-        "m3u8": "https://video01-tok.streamup.com/app/sim-cheongs-stream/playlist.m3u8",
+        "m3u8": "https://video01-tok.streamup.com/app/sim-cheongs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/387423/chatroom"
     },
     "구리뱅이": {
@@ -116,7 +116,7 @@
         "chat": "https://streamup.com/HARU_TV/embeds/chatonly"
     },
     "아라라기상": {
-        "m3u8": "https://video01-tok.streamup.com/app/araragi_tvs-stream/playlist.m3u8",
+        "m3u8": "https://video01-tok.streamup.com/app/araragi_tvs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/387415/chatroom"
     },
     "붕달": {
@@ -186,7 +186,11 @@
     "potsu-lee": {
         "m3u8": "https://video01-tok.streamup.com/app/potsu-lees-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/435960/chatroom"
-    },    
+    },
+    "이저먹지망": {
+        "m3u8": "https://video01-tok.streamup.com/app/jangkyos-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/332841/chatroom"
+    },
     "대전꼬꼬마": "391890",
     "sorum": "390469",
     "암내공격둘리": "322231",
