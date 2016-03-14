@@ -22,9 +22,13 @@
      "흰둥이": {
         "m3u8": "dada119s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/425130/chatroom"
+    },   
+     "흰둥잉": {
+        "afreeca": "http://afreecatvtwuniv-lh.akamaihd.net/i/AfreecaAWSTaiwan_15@391390/master.m3u8",
+        "chat": "https://livehouse.in/en/channel/425130/chatroom"
     },
      "깜순잉": {
-        "m3u8": "skylove1004s-stream_aac/playlist.m3u8",
+        "afreeca": "http://afreecatvtwuniv-lh.akamaihd.net/i/AfreecaAWSTaiwan_14@391685/master.m3u8",
         "chat": "https://livehouse.in/en/channel/425130/chatroom"
     },
      "please": {
@@ -108,7 +112,11 @@
         "chat": "https://streamup.com/ALTAVISTA/embeds/chatonly"
     },
     "PD 어둠의볶음밥": {
-        "m3u8": "rk1109s-stream_aac/playlist.m3u8",
+        "afreeca": "rk1109s-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/398469/chatroom"
+    },
+    "어둠의볶음밥": {
+        "afreeca": "http://afreecatvtwuniv-lh.akamaihd.net/i/AfreecaAWSTaiwan_18@391393/master.m3u8",
         "chat": "https://livehouse.in/en/channel/398469/chatroom"
     },
     "하루": {
