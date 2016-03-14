@@ -190,6 +190,14 @@
     "이저먹지망": {
         "m3u8": "jangkyos-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/332841/chatroom"
+    }, 
+    "퍄퍄": {
+        "m3u8": "monatos-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/431151/chatroom"
+    },
+    "blackuma": {
+        "m3u8": "blakcumas-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/439552/chatroom"
     },
     "wing-100": "413948",
     "대전꼬꼬마": "391890",
