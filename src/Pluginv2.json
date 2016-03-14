@@ -1,82 +1,82 @@
 {
      "임청하": {
-        "m3u8": "https://video01-tok.streamup.com/app/imchunghas-stream_aac/playlist.m3u8",
+        "m3u8": "imchunghas-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/429905/chatroom"
     },
      "장국영": {
-        "m3u8": "https://video01-tok.streamup.com/app/lesliecheungs-stream_aac/playlist.m3u8",
+        "m3u8": "lesliecheungs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/347257/chatroom"
     },
      "flyhack": {
-        "m3u8": "https://video01-tok.streamup.com/app/flyhacks-channel/playlist.m3u8",
+        "m3u8": "flyhacks-channel/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/317830/chatroom"
     },
      "bokik-kim": {
-        "m3u8": "https://video02-lax.streamup.com/app/bokik-kims-channel_aac/playlist.m3u8",
+        "m3u8": "bokik-kims-channel_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/423102/chatroom"
     },
      "Navyss": {
-        "m3u8": "https://video01-tok.streamup.com/app/navysss-stream/playlist.m3u8",
+        "m3u8": "navysss-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/416566/chatroom"
     },
      "흰둥이": {
-        "m3u8": "https://video01-tok.streamup.com/app/dada119s-stream_aac/playlist.m3u8",
+        "m3u8": "dada119s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/425130/chatroom"
     },
      "깜순잉": {
-        "m3u8": "https://video01-tok.streamup.com/app/skylove1004s-stream_aac/playlist.m3u8",
+        "m3u8": "skylove1004s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/425130/chatroom"
     },
      "please": {
-        "m3u8": "https://video-cdn.streamup.com/app/pleasepleases-stream/playlist.m3u8",
+        "m3u8": "pleasepleases-stream/playlist.m3u8",
         "chat": "https://streamup.com/pleaseplease/embeds/chatonly"
     },
      "Namsan": {
-        "m3u8": "https://video-cdn.streamup.com/app/capicths-stream/playlist.m3u8",
+        "m3u8": "capicths-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/351812/chatroom"
     },
      "고라파덕": {
-        "m3u8": "https://video-cdn.streamup.com/app/mrboguss-stream/playlist.m3u8",
+        "m3u8": "mrboguss-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/399510/chatroom"
     },
      "reve": {
-        "m3u8": "https://video-cdn.streamup.com/app/reves-stream/playlist.m3u8",
+        "m3u8": "reves-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/346894/chatroom"
     },
      "PJuRi": {
-        "m3u8": "https://video-cdn.streamup.com/app/pjuris-stream/playlist.m3u8",
+        "m3u8": "pjuris-stream/playlist.m3u8",
         "chat": "https://streamup.com/PJuRi/embeds/chatonly"
     },
     "NiceTV": {
-        "m3u8": "https://video01-tok.streamup.com/app/aimhighs-stream_aac/playlist.m3u8",
+        "m3u8": "aimhighs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/323847/chatroom"
     },
     "DannaKhan": {
-        "m3u8": "https://video01-tok.streamup.com/app/dannakhans-stream/playlist.m3u8",
+        "m3u8": "dannakhans-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/357881/chatroom"
     },
     "사공TV": {
-        "m3u8": "https://video01-tok.streamup.com/app/sagongs-stream_aac/playlist.m3u8",
+        "m3u8": "sagongs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/345602/chatroom"
     },
     "(HD) Han Tv": {
-        "m3u8": "https://video-cdn.streamup.com/app/dannyhans-stream/playlist.m3u8",
+        "m3u8": "dannyhans-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/395345/chatroom"
     },
     "크림샤드": {
-        "m3u8": "https://video01-tok.streamup.com/app/crimshards-stream_aac/playlist.m3u8",
+        "m3u8": "crimshards-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/322987/chatroom"
     },
     "키메": {
-        "m3u8": "https://video-cdn.streamup.com/app/gones-stream/playlist.m3u8",
+        "m3u8": "gones-stream/playlist.m3u8",
         "chat": "https://streamup.com/gone/embeds/chatonly"
     },
     "팟트라슈": {
-        "m3u8": "https://video02-lax.streamup.com/app/minhos-stream_aac/playlist.m3u8",
+        "m3u8": "minhos-stream_aac/playlist.m3u8",
         "chat": "https://streamup.com/partrasu/embeds/chatonly"
     },
     "떠삥맨": {
-        "m3u8": "https://video-cdn.streamup.com/app/dubbingmans-stream/playlist.m3u8",
+        "m3u8": "dubbingmans-stream/playlist.m3u8",
         "chat": "https://streamup.com/dubbingman/embeds/chatonly"
     },
     "플로우": {
@@ -84,39 +84,39 @@
         "chat": "https://livehouse.in/en/channel/321812/chatroom"
     },
     "kyou": {
-        "m3u8": "https://video-cdn.streamup.com/app/chochs-stream/playlist.m3u8",
+        "m3u8": "chochs-stream/playlist.m3u8",
         "chat": "https://streamup.com/kyou/embeds/chatonly"
     },
     "심청이": {
-        "m3u8": "https://video01-tok.streamup.com/app/sim-cheongs-stream_aac/playlist.m3u8",
+        "m3u8": "sim-cheongs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/387423/chatroom"
     },
     "구리뱅이": {
-        "m3u8": "https://video01-tok.streamup.com/app/guris-stream/playlist.m3u8",
+        "m3u8": "guris-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/423599/chatroom"
     },
     "푸른용": {
-        "m3u8": "https://video-cdn.streamup.com/app/kap2020s-stream/playlist.m3u8",
+        "m3u8": "kap2020s-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/318532/chatroom"
     },
     "망둥어": {
-        "m3u8": "https://video01-tok.streamup.com/app/mangdoongs-stream_aac/playlist.m3u8",
+        "m3u8": "mangdoongs-stream_aac/playlist.m3u8",
         "chat": "https://streamup.com/Mangdoong/embeds/chatonly"
     },
     "알타비스타": {
-        "m3u8": "https://video01-tok.streamup.com/app/altavistas-stream_aac/playlist.m3u8",
+        "m3u8": "altavistas-stream_aac/playlist.m3u8",
         "chat": "https://streamup.com/ALTAVISTA/embeds/chatonly"
     },
     "PD 어둠의볶음밥": {
-        "m3u8": "https://video02-lax.streamup.com/app/rk1109s-stream_aac/playlist.m3u8",
+        "m3u8": "rk1109s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/398469/chatroom"
     },
     "하루": {
-        "m3u8": "https://video-cdn.streamup.com/app/haru-tv/playlist.m3u8",
+        "m3u8": "haru-tv/playlist.m3u8",
         "chat": "https://streamup.com/HARU_TV/embeds/chatonly"
     },
     "아라라기상": {
-        "m3u8": "https://video01-tok.streamup.com/app/araragi_tvs-stream_aac/playlist.m3u8",
+        "m3u8": "araragi_tvs-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/387415/chatroom"
     },
     "붕달": {
@@ -124,77 +124,74 @@
         "chat": "https://livehouse.in/en/channel/377797/chatroom"
     },
     "해보라기": {
-        "m3u8": "https://video04-lax.streamup.com/app/haeboragis-stream/playlist.m3u8",
+        "m3u8": "haeboragis-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/391272/chatroom"
     },
     "이리도2": {
-        "m3u8": "https://video01-tok.streamup.com/app/erido2s-stream_aac/playlist.m3u8",
+        "m3u8": "erido2s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/417025/chatroom"
     },
     "NAVY": {
-        "m3u8": "https://video01-tok.streamup.com/app/navyss-stream_aac/playlist.m3u8",
+        "m3u8": "navyss-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/416566/chatroom"
     },
     "Navyss": {
-        "m3u8": "https://video01-tok.streamup.com/app/navysss-stream_aac/playlist.m3u8",
+        "m3u8": "navysss-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/416566/chatroom"
     },
     "navy3": {
-        "m3u8": "https://video01-tok.streamup.com/app/navy3s-stream_aac/playlist.m3u8",
+        "m3u8": "navy3s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/416566/chatroom"
     },
     "홍삼원": {
-        "m3u8": "https://video-cdn.streamup.com/app/hong-samones-stream/playlist.m3u8",
+        "m3u8": "hong-samones-stream/playlist.m3u8",
         "chat": "https://streamup.com/hong-samone/embeds/chatonly"
     },
     "호,뭐?!심슨!!": {
-        "m3u8": "https://video01-tok.streamup.com/app/homersimpsons-stream/playlist.m3u8",
+        "m3u8": "homersimpsons-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/393620/chatroom"
     },
     "이리저리": {
-        "m3u8": "https://video-cdn.streamup.com/app/besavoreds-stream/playlist.m3u8",
+        "m3u8": "besavoreds-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/392246/chatroom"
     },
     "팟하": {
-        "m3u8": "https://video-cdn.streamup.com/app/pophas-stream/playlist.m3u8",
+        "m3u8": "pophas-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/394894/chatroom"
     },
     "롱스포츠": {
-        "m3u8": "https://video01-tok.streamup.com/app/rongsportss-channel_aac/playlist.m3u8",
+        "m3u8": "rongsportss-channel_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/399183/chatroom"
     },
     "PD Bara": {
-        "m3u8": "https://video01-tok.streamup.com/app/pdbaras-stream_aac/playlist.m3u8",
+        "m3u8": "pdbaras-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/391814/chatroom"
     },
     "FOXTails TV": {
-        "m3u8": "https://video01-tok.streamup.com/app/foxtailspots-stream_aac/playlist.m3u8",
+        "m3u8": "foxtailspots-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/394926/chatroom"
     },
     "불꽃방망이": {
-        "m3u8": "https://video02-lax.streamup.com/app/hkwkdgos-stream_aac/playlist.m3u8",
+        "m3u8": "hkwkdgos-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/342962/chatroom"
     },
-    "wing-100": {
-        "m3u8": "https://hi.cdn.livehouse.in/413948/video/playlist.m3u8",
-        "chat": "https://livehouse.in/en/channel/413948/chatroom"
-    },
     "암내둘리": {
-        "m3u8": "https://video01-tok.streamup.com/app/dndhk20s-stream_aac/playlist.m3u8",
+        "m3u8": "dndhk20s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/433523/chatroom"
     },
     "potsu-lee": {
-        "m3u8": "https://video01-tok.streamup.com/app/potsu-lees-stream_aac/playlist.m3u8",
+        "m3u8": "potsu-lees-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/435960/chatroom"
     },
     "potsu-lee2": {
-        "m3u8": "https://video01-tok.streamup.com/app/pooopotlee2s-stream_aac/playlist.m3u8",
+        "m3u8": "pooopotlee2s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/410816/chatroom"
     },
     "이저먹지망": {
-        "m3u8": "https://video02-lax.streamup.com/app/jangkyos-stream_aac/playlist.m3u8",
+        "m3u8": "jangkyos-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/332841/chatroom"
     },
+    "wing-100": "413948",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
     "암내공격둘리": "322231",
@@ -338,9 +335,9 @@
         "Position_TwitchPD": "deepblue",
         "Position_TwitchTitle": "ellipsis",
         "UpdatePath": "https://github.com/Visionary1/LodaPlugin/raw/master/%EB%A1%9C%EB%8B%A4%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8.zip",
-        "Server1": "hi.cdn.livehouse.in",
-        "Server2": "rtctw-rtcp-hi-1.livehouse.in",
-        "Server3": "119.81.135.21",
-        "Server4": "rtcp-sln.livebc.net"
+        "Server1": "https://video01-tok.streamup.com/app/",
+        "Server2": "https://video02-lax.streamup.com/app/",
+        "Server3": "https://video06-atl.streamup.com/app/",
+        "Server4": "https://video01-lon.streamup.com/app/"
     }
 }
