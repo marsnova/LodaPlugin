@@ -210,7 +210,10 @@
         "m3u8": "demon_777s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/358260/chatroom"
     },
-    "wing-100": "413948",
+    "wing-100": {
+        "m3u8": "wing100s-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/413948/chatroom"
+    },
     "대전꼬꼬마": "391890",
     "sorum": "390469",
     "암내공격둘리": "322231",
