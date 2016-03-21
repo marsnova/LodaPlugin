@@ -214,6 +214,10 @@
         "m3u8": "wing100s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/413948/chatroom"
     },
+    "chocopie": {
+        "m3u8": "k1a026951s-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/324901/chatroom"
+    },
     "대전꼬꼬마": "391890",
     "sorum": "390469",
     "암내공격둘리": "322231",
