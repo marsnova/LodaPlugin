@@ -222,9 +222,12 @@
         "m3u8": "dytl1019s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/319396/chatroom"
     },
+    "Wake UP, Girls!": {
+         "m3u8":"gataks-stream_aac/playlist.m3u8",
+         "chat":"https://streamup.com/gatak/embeds/chatonly" 
+    }, 
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
-    "Wake UP, Girls!": "459101",
     "sorum": "390469",
     "암내공격둘리": "322231",
     "마스터": "328250",
