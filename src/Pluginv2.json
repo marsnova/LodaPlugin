@@ -227,7 +227,7 @@
          "chat": "https://streamup.com/gatak/embeds/chatonly" 
     }, 
     "THOMTV": {
-         "m3u8": "thomtv7s-stream_aac/playlist.m3u8"
+         "m3u8": "thomtv7s-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/318288/chatroom"  
     },
     "중수팟수": "409120",
