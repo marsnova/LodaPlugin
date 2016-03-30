@@ -223,9 +223,13 @@
         "chat": "https://livehouse.in/en/channel/319396/chatroom"
     },
     "Wake UP, Girls!": {
-         "m3u8":"gataks-stream_aac/playlist.m3u8",
-         "chat":"https://streamup.com/gatak/embeds/chatonly" 
+         "m3u8": "gataks-stream_aac/playlist.m3u8",
+         "chat": "https://streamup.com/gatak/embeds/chatonly" 
     }, 
+    "THOMTV": {
+         "m3u8": "thomtv7s-stream_aac/playlist.m3u8"
+         "chat": "https://livehouse.in/en/channel/318288/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
@@ -248,7 +252,6 @@
     "팟수의한국영화": "318146",
     "고퀄리티": "323005",
     "거북TV": "324804",
-    "THOMTV": "318288",
     "미르": "318493",
     "보리": "322383",
     "세엑스칼리버": "316166",
