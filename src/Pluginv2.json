@@ -149,6 +149,10 @@
     "navy3": {
         "m3u8": "navy3s-stream_aac/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/416566/chatroom"
+    }, 
+    "navy4": {
+        "m3u8": "navy4s-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/416566/chatroom"
     },
     "홍삼원": {
         "m3u8": "hong-samones-stream/playlist.m3u8",
