@@ -239,7 +239,7 @@
          "chat": "https://livehouse.in/en/channel/472686/chatroom"  
     },
     "rlaelfeb": {
-         "m3u8": "rlaelfeb-stream_aac/playlist.m3u8",
+         "m3u8": "rlaelfeb-stream/playlist.m3u8",
          "chat": "https://streamup.com/rlaelfeb/embeds/chatonly"  
     },
     "중수팟수": "409120",
