@@ -242,6 +242,10 @@
          "m3u8": "rlaelfeb-stream_aac/playlist.m3u8",
          "chat": "https://streamup.com/rlaelfeb/embeds/chatonly"  
     },
+    "E.A.O.P": {
+         "m3u8": "kimbonghos-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/342792/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
@@ -309,7 +313,6 @@
     "정은지": "358737",
     "땔감": "353473",
     "친철한상근씨": "334645",
-    "E.A.OP TV": "342792",
     "Zorro": "322257",
     "팟수 Lee 2관": "318396",
     "힐링": "323745",
