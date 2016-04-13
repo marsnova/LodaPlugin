@@ -246,6 +246,10 @@
          "m3u8": "kimbonghos-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/425160/chatroom"  
     },
+     "bears": {
+         "m3u8": "baseballkings-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/2015hohaiyan/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
