@@ -258,6 +258,10 @@
          "m3u8": "dtds-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/325671/chatroom"  
     },
+     "Scientist": {
+         "m3u8": "scientists-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/326972/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
