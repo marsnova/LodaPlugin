@@ -266,6 +266,10 @@
          "m3u8": "luxury0320s-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/334645/chatroom"  
     },
+    "워3빌골벅": {
+         "m3u8": "goldbulgs-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/483494/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
