@@ -272,6 +272,10 @@
          "m3u8": "yeots-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/372923/chatroom"  
     },
+     "페일": {
+         "m3u8": "peil30s-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/490055/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
