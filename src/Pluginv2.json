@@ -284,6 +284,10 @@
          "m3u8": "horror96s-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/493772/chatroom"  
     },
+     "캐린": {
+         "m3u8": "karyn4011s-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/317875/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
@@ -310,7 +314,6 @@
     "세엑스칼리버": "316166",
     "팟할라": "318065",
     "visp(배즙)": "318614",
-    "캐린": "317867",
     "브레인워시": "321989",
     "민지": "318023",
     "Gowf": "353149",
