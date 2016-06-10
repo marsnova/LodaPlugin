@@ -436,7 +436,7 @@
         "Position_TwitchTitle": "ellipsis",
         "UpdatePath": "https://github.com/Visionary1/LodaPlugin/raw/master/%EB%A1%9C%EB%8B%A4%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8.zip",
         "Server1": "https://video01-tok.streamup.com/app/",
-        "Server2": "https://video02-lax.streamup.com/app/",
+        "Server2": "https://video01-lax.streamup.com/app/",
         "Server3": "https://video06-atl.streamup.com/app/",
         "Server4": "https://video01-lon.streamup.com/app/"
     }
