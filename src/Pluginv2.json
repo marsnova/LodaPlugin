@@ -296,6 +296,18 @@
          "m3u8": "riorentes-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/359798/chatroom"  
     },
+     "조지워싱턴": {
+         "m3u8": "aoisss-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/318914/chatroom"  
+    },
+     "E.L": {
+         "m3u8": "ethanls-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/324546/chatroom"  
+    },
+     "황금도시": {
+         "m3u8": "eldoradoiss-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/491994/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
