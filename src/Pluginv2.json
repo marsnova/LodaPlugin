@@ -72,8 +72,8 @@
         "chat": "https://streamup.com/gone/embeds/chatonly"
     },
     "팟트라슈": {
-        "m3u8": "minhos-stream_aac/playlist.m3u8",
-        "chat": "https://streamup.com/partrasu/embeds/chatonly"
+        "m3u8": "dosans-stream_aac/playlist.m3u8",
+        "chat": "https://livehouse.in/en/channel/403332/chatroom"
     },
     "떠삥맨": {
         "m3u8": "dubbingmans-stream_aac/playlist.m3u8",
@@ -307,6 +307,18 @@
      "황금도시": {
          "m3u8": "eldoradoiss-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/491994/chatroom"  
+    },
+    "chikTV": {
+         "m3u8": "chikan24s-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/521931/chatroom"  
+    },
+     "DOGTV": {
+         "m3u8": "beunsps-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/325873/chatroom"  
+    },
+     "DOGTV": {
+         "m3u8": "beunsps-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/325873/chatroom"  
     },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
