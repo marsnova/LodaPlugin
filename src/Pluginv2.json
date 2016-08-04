@@ -320,6 +320,10 @@
          "m3u8": "buzzleds-stream_aac/playlist.m3u8",
          "chat": "https://livehouse.in/en/channel/517771/chatroom"  
     },
+     "Healing": {
+         "m3u8": "kohdyktops-stream_aac/playlist.m3u8",
+         "chat": "https://livehouse.in/en/channel/323745/chatroom"  
+    },
     "중수팟수": "409120",
     "대전꼬꼬마": "391890",
     "sorum": "390469",
@@ -401,7 +405,6 @@
     "Loin": "318103",
     "콩팝": "362827",
     "玉井詩織": "363099",
-    "Healing": "341780",
     "갓쥬멍뭉": "317753",
     "Halloween": "321516",
     "우리집개": "317849",
