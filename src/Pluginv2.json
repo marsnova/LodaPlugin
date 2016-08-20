@@ -1,10 +1,10 @@
 {
      "임청하": {
-        "m3u8": "imchunghas-stream_aac/playlist.m3u8",
+        "m3u8": "imchunghas-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/429905/chatroom"
     },
      "장국영": {
-        "m3u8": "lesliecheungs-stream_aac/playlist.m3u8",
+        "m3u8": "lesliecheungs-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/347257/chatroom"
     },
      "flyhack": {
@@ -12,7 +12,7 @@
         "chat": "https://livehouse.in/en/channel/317830/chatroom"
     },
      "bokik-kim": {
-        "m3u8": "bokik-kims-channel_aac/playlist.m3u8",
+        "m3u8": "bokik-kims-channel/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/423102/chatroom"
     },
      "Navyss": {
@@ -20,7 +20,7 @@
         "chat": "https://livehouse.in/en/channel/416566/chatroom"
     },
      "흰둥이": {
-        "m3u8": "dada119s-stream_aac/playlist.m3u8",
+        "m3u8": "dada119s-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/425130/chatroom"
     },
      "깜순잉": {
@@ -40,7 +40,7 @@
         "chat": "https://livehouse.in/en/channel/399510/chatroom"
     },
      "reve": {
-        "m3u8": "reves-stream_aac/playlist.m3u8",
+        "m3u8": "reves-stream/playlist.m3u8",
         "chat": "https://livehouse.in/en/channel/346894/chatroom"
     },
      "PJuRi": {
